@@ -1,4 +1,4 @@
-# hello-world
+# hello-world (missing node_modules, installable via npm or yarn)
 
 ## Project setup
 ```
